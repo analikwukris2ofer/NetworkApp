@@ -1,0 +1,31 @@
+/* .header {
+  display: flex;
+} */
+.header__left {
+  display: flex;
+}
+
+/* .header__left > svg {
+  height: 40px;
+} */
+
+.appicon {
+  height: 40px;
+  object-fit: contain;
+  color: blue;
+}
+
+.header__search {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  height: 22px;
+  color: gray;
+}
+
+.header__search > input {
+  outline: none;
+  border: none;
+  background: none;
+}
