@@ -4,6 +4,7 @@
   display: flex;
   justify-content: space-evenly;
   border-bottom: 0.1px solid lightgray;
+  background-color: white;
   padding-top: 10px;
   padding-bottom: 10px;
   width: 100%;
@@ -20,7 +21,7 @@
 .appicon {
   height: 40px;
   object-fit: contain;
-  color: blue;
+  color: rgb(72, 0, 255);
   margin-right: 10px;
 }
 
