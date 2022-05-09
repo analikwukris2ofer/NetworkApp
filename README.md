@@ -1,8 +1,8 @@
-# Network App
+# we-connect App
 
 # Purpose
 
-This project is built to enhance the power of social media and enable people to network
+This project is built to enable people build professional networks and contacts.
 
 ### Tech Stack
 
